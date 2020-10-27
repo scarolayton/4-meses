@@ -259,6 +259,9 @@ footer {
   .header h1 {
     font-size: 50px;
   }
+  .menu-navegacion{
+    width:50vw;
+  } 
   .agregar-imagen {
     width: 90%;
   }
