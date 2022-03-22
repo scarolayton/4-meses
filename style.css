@@ -19,7 +19,7 @@ body {
 header {
   height: 100vh;
   background-image: linear-gradient(to top, #3017c075 0%, #b904b97e 100%),
-    url(gallery.jpg);
+    url(gallery.JPEG);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
