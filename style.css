@@ -242,6 +242,12 @@ footer {
   margin-bottom: 60px;
 }
 @media screen and (max-width: 800px) {
+  header {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+  }
   .contenedor-servicio img {
     width: 80%;
   }
